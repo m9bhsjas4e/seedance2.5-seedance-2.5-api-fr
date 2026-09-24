@@ -6,7 +6,7 @@
 
 > À l'usage, rechargement dès 1 $, endpoint compatible OpenAI. **480P-input $0.0576; 480P $0.0961; 720P-input $0.1296**
 
-**[模型页](https://apimart.ai/model) · [实时价格](https://apimart.ai/pricing) · [获取 API Key](https://apimart.ai/keys)**
+**[模型页](https://go.apimart.ai/k-56bbc9) · [实时价格](https://go.apimart.ai/k-52310a) · [获取 API Key](https://go.apimart.ai/k-f489bf)**
 
 ## Tarifs（快照 2026-09-24）
 
